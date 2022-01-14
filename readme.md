@@ -7,4 +7,3 @@ show collections //menampilkan collection(file)
 db.namaCollection.insertOne({obj}) //memasukkan data
 db.namaCollection.insertMany([{}])
 db.namaCollection.find() //menampilkan isi collection(file)
-# MongoDB
